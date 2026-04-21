@@ -1,6 +1,6 @@
 # Work Experience
 
-<img src="https://m.chunjaetext.co.kr/SkinImg/logo.png" height="24" alt="Chunjae Education logo"> · <img src="https://cdndata.milkt.co.kr/ele/www/Images/common/header/logo_b.png" height="24" alt="MilkT logo"> 
+<img src="https://m.chunjaetext.co.kr/SkinImg/logo.png" height="24" alt="Chunjae Education logo">
 **Backend Developer**
 Seoul, South Korea · 2021 – 2025
 
