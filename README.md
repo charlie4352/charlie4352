@@ -9,13 +9,14 @@
 ## Service Overview
 
 <table border="0"><tr>
-<td><img src="./images/milkt-screen1.png" width="400"><sub>Literacy learning </br> 
-  vocabulary, reading comprehension, and digital literacy</sub></td>
-<td><img src="./images/milkt-screen2.png" width="400"><sub>Magazine feature </br> 
-  subject-based articles, videos, and serialized comics</sub></td>
+<td><img src="./images/milkt-screen1.png" width="400"><br>
+  <sub>Literacy learning: vocabulary, reading comprehension, and digital literacy</sub></td>
+<td><img src="./images/milkt-screen2.png" width="400"><br>
+  <sub>Magazine feature: subject-based articles, videos, and serialized comics</sub></td>
 </tr></table>
 
-MilkT delivers CDN-streamed video lessons and an interactive question bank through a custom tablet app, with real-time progress tracking for students and teachers.
+MilkT delivers video lessons and an interactive question bank through a custom tablet app, with progress tracking for students and teachers.
+[Visit MilkT Official Site](https://www.milkt.co.kr/bookclub/index)
 
 </br>
 
