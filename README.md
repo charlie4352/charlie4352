@@ -4,8 +4,6 @@
 &nbsp; **Chunjae Education** &nbsp;|&nbsp; Backend Developer &nbsp;|&nbsp; 2021 – 2025 </br>
 &nbsp; Contributed to MilkT, a tablet-based digital learning platform serving K-12 students across South Korea.
 
-</br>
-
 ## Service Overview
 
 <table><tr>
@@ -15,9 +13,7 @@
 
 MilkT is a subscription-based EdTech platform with personalized video lessons, AI-driven progress tracking, and an interactive question bank — delivered through dedicated tablets for elementary to high school students.
 
----
-
-## 🔧 What I Built
+## What I Built
 
 ### 1. Internal Data Automation
 - Built a self-service data extraction page, replacing manual SQL report delivery to other departments
