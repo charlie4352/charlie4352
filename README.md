@@ -7,12 +7,12 @@
 </br></br>
 
 
-## 🖥️ About the Product
+## Service Overview
 
-<!-- 
-  여기에 밀크T 공홈에서 캡처한 학습 화면 이미지 삽입
-  예: ![MilkT Learning Screen](./images/milkt-screen.png)
--->
+<table><tr>
+<td><img src="./images/milkt-screen1.png" width="400"></td>
+<td><img src="./images/milkt-screen2.png" width="400"></td>
+</tr></table>
 
 ![MilkT Platform](https://via.placeholder.com/800x400?text=MilkT+Learning+Platform+Screenshot+Here)
 
