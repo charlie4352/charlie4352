@@ -1,9 +1,10 @@
 # Work Experience
 
-<img src="https://m.chunjaetext.co.kr/SkinImg/logo.png" height="20" alt="Chunjae Education logo"> · <strong>Backend Developer</strong>
-Seoul, South Korea · 2021 – 2025
+&nbsp; <img src="https://m.chunjaetext.co.kr/SkinImg/logo.png" height="32" alt="Chunjae Education logo"><br>
+&nbsp; **Chunjae Education** &nbsp;|&nbsp; Backend Developer &nbsp;|&nbsp; 2021 – 2025 </br>
+&nbsp; Contributed to MilkT, a tablet-based digital learning platform serving K-12 students across South Korea.
 
-> Contributed to **MilkT**, a tablet-based digital learning platform serving K-12 students across South Korea.
+</br></br>
 
 
 ## 🖥️ About the Product
