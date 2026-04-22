@@ -8,12 +8,14 @@
 
 ## Service Overview
 
-<table><tr>
-<td><img src="./images/milkt-screen1.png" width="400"></td>
-<td><img src="./images/milkt-screen2.png" width="400"></td>
+<table border="0"><tr>
+<td><img src="./images/milkt-screen1.png" width="400"><sub>Literacy learning </br> 
+  vocabulary, reading comprehension, and digital literacy</sub></td>
+<td><img src="./images/milkt-screen2.png" width="400"><sub>Magazine feature </br> 
+  subject-based articles, videos, and serialized comics</sub></td>
 </tr></table>
 
-MilkT is a subscription-based EdTech platform with personalized video lessons, AI-driven progress tracking, and an interactive question bank — delivered through dedicated tablets for elementary to high school students.
+MilkT delivers CDN-streamed video lessons and an interactive question bank through a custom tablet app, with real-time progress tracking for students and teachers.
 
 </br>
 
