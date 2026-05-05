@@ -40,7 +40,7 @@ MilkT delivers video lessons and an interactive question bank through a custom t
 
 ### 3. Event Features
 - Developed seasonal event pages on the hybrid tablet app, managing each student's participation and submission data
-- Implemented native gallery access via JavaScript Bridge, enabling students to upload photos directly from the tablet within the web-based app
+- Implemented native gallery access via `JavaScript Bridge`, enabling students to upload photos directly from the tablet within the web-based app
 - Built the reward logic to automatically distribute membership points to participants upon event completion
 
 ### 4. CRM / Internal Admin System
@@ -51,8 +51,8 @@ MilkT delivers video lessons and an interactive question bank through a custom t
 - Built dashboard widgets displaying lecture view counts, completion rates, and progress distribution across students
 
 ### 5. Tech Stack Migration (POC)
-- Converted features end-to-end as part of a team-wide migration of the internal content management system from C#/.NET to Java/MyBatis and Vue.js
-- Connected the Vue.js frontend to the Java backend, handling content listing, search, and file management requests
+- Converted features end-to-end as part of a team-wide migration of the internal content management system from `C#/.NET` to `Java/MyBatis` and Vue.js
+- Connected the `Vue.js` frontend to the `Java` backend, handling content listing, search, and file management requests
 - Restructured existing C# application logic to fit the Java/Vue.js architecture while preserving core business logic
 
 ### 6. Data Automation
@@ -60,7 +60,7 @@ MilkT delivers video lessons and an interactive question bank through a custom t
 - Automated recurring DB update tasks for teacher organization changes, eliminating the need for manual developer intervention
 
 ### 7. Information Security Compliance
-- Applied data masking to sensitive personal information across the system ahead of annual security certification audits
+- Applied `data masking` to sensitive personal information across the system ahead of annual security certification audits
 <br><br>
 
 
